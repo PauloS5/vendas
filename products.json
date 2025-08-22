@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "arroz",
+        "price": 7.5,
+        "count": 12
+    },
+    {
+        "id": 2,
+        "name": "feijão",
+        "price": 155,
+        "count": 234
+    },
+    {
+        "id": 3,
+        "name": "farinha",
+        "price": 34.5,
+        "count": 23
+    },
+    {
+        "id": 4,
+        "name": "macarrão",
+        "price": 56,
+        "count": 98
+    }
+]
